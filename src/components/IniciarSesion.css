@@ -1,0 +1,63 @@
+.iniciarsesion-container {
+  display: flex;
+  flex-direction: column;
+  height: 40%;
+  align-items: center;
+}
+
+.logo-iniciarsesion-container {
+  display: flex;
+  width: 100%;
+}
+
+.twitter-logo-login {
+  padding-left: 37%;
+}
+
+input {
+  height: 48px;
+  width: 350px;
+  border: solid 1px;
+  border-color: rgb(190, 190, 190);
+  border-radius: 4px;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold 700;
+  font-size: 30px;
+}
+
+.olvidarcontraseña {
+  color: rgb(29, 161, 242);
+  font-size: 14px;
+}
+
+.form-iniciarsesion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.iniciarsesion-titulo-container {
+  width: 29%;
+  padding-left: 43px;
+  text-align: start;
+  display: flex;
+  justify-content: center;
+}
+
+.iniciarsesion-titulo {
+  align-items:flex-start;
+  font-weight: 800;
+}
+
+.input-iniciarsesion {
+  margin-bottom: 22px;
+  width: 325px;
+}
+
+.boton-login-registrate {
+  width: 345px;
+}

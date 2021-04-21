@@ -1,0 +1,106 @@
+.container-login {
+  display: flex;
+  height: 90vh;
+}
+
+.navbar-abajo {
+  height: 10%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(245, 245, 245);
+}
+
+.foto-login-container {
+  width: 30%;
+  display: flex;
+}
+
+.logo-fondo-login {
+  display: flex;
+  position: absolute;
+  width: 20%;
+  margin-top: 190px;
+  margin-left: 140px;
+}
+
+.login-container {
+  width: 50%;
+  padding-left: 200px;
+}
+
+.twitter-logo-login {
+  height: 33px;
+  width: 41px;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 35px;
+}
+
+.titulo-login-container {
+  display: flex;
+  width: 80%;
+}
+
+.titulo-login {
+  font-family: "Montserrat", sans-serif;
+  font-size: 64px;
+  text-align: start;
+  font-weight: 800;
+  line-height: 60px;
+}
+
+.titulo2-login {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold 700;
+  font-size: 32px;
+  text-align: start;
+}
+
+.botones-login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.boton-login-registrate {
+  background-color: rgb(29, 161, 242);
+  border: 1px solid;
+  border-color: rgb(29, 161, 242);
+  border-radius: 30px;
+  height: 48px;
+  width: 350px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 18px;
+}
+
+.boton-login-iniciar-sesion {
+  background-color: white;
+  border: 1px solid;
+  border-color: rgb(29, 161, 242);
+  border-radius: 30px;
+  height: 48px;
+  width: 350px;
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(29, 161, 242);
+}
+
+.navbar-abajo {
+  height: 73px;
+  background-color: white;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.navbar-abajo-a {
+  font-size: 13px;
+  color: rgb(122, 122, 122);
+  text-decoration: none;
+  padding-right: 10px;
+}
+
